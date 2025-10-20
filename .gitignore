@@ -1,0 +1,4 @@
+# ignora los directorios bin y obj
+bin/
+obj/
+.vs/
